@@ -8,7 +8,6 @@
 </head>
 
 <body>
-    <h1>XYZ SALES API END POINT</h1>
     <a href="../src/Controller/CustomerController.php"><button>Customer</button></a>
     <a href="../src/Controller/PurchaseController.php"><button>Purchase</button></a>
     <a href="../src/Controller/SalesController.php"><button>Sales</button></a>
